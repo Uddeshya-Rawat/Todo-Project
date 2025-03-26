@@ -36,7 +36,11 @@ B. Usage
 
    The task will be permanently removed from the list.
 
-4. Marking a To-Do as Complete
+
+  [visit the project](https://uddeshya-todo-app.netlify.app/)
+  
+
+5. Marking a To-Do as Complete
 
    Click the checkbox next to the task.
 
