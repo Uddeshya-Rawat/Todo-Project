@@ -35,13 +35,14 @@ B. Usage
    Click the Delete button next to the task.
 
    The task will be permanently removed from the list.
-
-
-  [visit the project](https://uddeshya-todo-app.netlify.app/)
   
-
 5. Marking a To-Do as Complete
 
    Click the checkbox next to the task.
 
    The task will be marked as complete and visually indicated.
+
+
+
+
+     [Live Link](https://uddeshya-todo-app.netlify.app/)
