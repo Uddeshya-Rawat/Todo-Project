@@ -3,12 +3,12 @@ A simple yet powerful To-Do application built with React.js. This app allows use
 
 Features
 
-Add new tasks with ease
+1.Add new tasks with ease
 
-Update existing tasks to modify their content
+2.Update existing tasks to modify their content
 
-Delete tasks that are no longer needed
+3.Delete tasks that are no longer needed
 
-Mark tasks as complete to keep track of progress
+4.Mark tasks as complete to keep track of progress
 
-User-friendly interface with intuitive controls
+5.User-friendly interface with intuitive controls
